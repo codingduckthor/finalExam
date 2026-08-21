@@ -1,0 +1,13 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+
+# Frontend
+Exam.Frontend/node_modules/
+Exam.Frontend/dist/
+
+# Local settings and secrets
+appsettings.Development.json
+*.user
+*.suo
